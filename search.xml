@@ -3,9 +3,7 @@
   <entry>
     <title>markdown说明文档</title>
     <url>/blog/2020/08/25/mark%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<p>##Markdown说明文档</p>
-<p>###第一段标题</p>
-<ul>
+    <content><![CDATA[<h3 id="Markdown说明文档"><a href="#Markdown说明文档" class="headerlink" title="Markdown说明文档"></a>Markdown说明文档</h3><h3 id="第一段标题"><a href="#第一段标题" class="headerlink" title="第一段标题"></a>第一段标题</h3><ul>
 <li>代码示例  </li>
 </ul>
 <p>###第一段标题</p>
